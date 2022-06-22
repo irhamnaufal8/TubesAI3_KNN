@@ -1,2 +1,2 @@
-# TubesAI3_KNN
-Tugas Besar Pengantar Kecerdasan Buatan: K-Nearest Neighbor
+# K-Nearest Neighbor
+### Tugas Besar Pengantar Kecerdasan Buatan: Learning
